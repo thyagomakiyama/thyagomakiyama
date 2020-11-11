@@ -1,7 +1,5 @@
 ## Aôba :bowtie:
 
-I am Thyago Makiyama, I love soccer, sertanejo, may pets and my fiancee rsrsrs
+I'm Thyago Makiyama, currently working as a systems analyst at @PRAVALER.
 
-I'm a systems analyst at @PRAVALER.
-
-I am currently learning more about react, laravel and cloud architecture. #fullStackDeveloper
+I have a degree in Systems Analysis and Development.  I have always worked using PHP and have studied a lot about Elixir and React.
