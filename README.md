@@ -3,7 +3,7 @@
 
 Me chamo Thyago Makiyama, tenho 25 anos, moro em São José do Rio Preto.
 
-Em 2017 me formei em Análise e Desenvolvimento de Sistemas pela Faculdade IESB, este ano iniciei uma pós graduação em Arquitetura de Soluções Digitais pela faculdade Impacta. Trabalho com desenvolmento web desde agosto de 2016 e atualmente estou como Desenvolvedor Full Stack no @Pravaler.
+Em 2017 me formei em Análise e Desenvolvimento de Sistemas pela Faculdade IESB, este ano iniciei uma pós graduação em Arquitetura de Soluções Digitais pela faculdade Impacta. Trabalho com desenvolmento web desde agosto de 2016 e atualmente estou como Desenvolvedor Full Stack no @PRAVALER.
 
 Estou sempre em busca de conhecimento, sempre estudando, então aqui vão existir alguns repositórios de laboratório :sweat_smile: :nerd_face:
 
