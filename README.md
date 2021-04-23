@@ -25,5 +25,3 @@ Estou sempre em busca de conhecimento, sempre estudando, então aqui vão existi
 <a href="https://www.instagram.com/thyagom10"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 </p>
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thyagomakiyama&repo=thyagomakiyama&countColorcountColor)
