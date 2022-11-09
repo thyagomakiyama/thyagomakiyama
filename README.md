@@ -1,9 +1,9 @@
 
 <h1>Opa! :cowboy_hat_face: </h1>
 
-Me chamo Thyago Makiyama, tenho 25 anos, moro em São José do Rio Preto.
+Me chamo Thyago Makiyama, tenho 27 anos, moro em São José do Rio Preto.
 
-Em 2017 me formei em Análise e Desenvolvimento de Sistemas pela faculdade IESB, este ano iniciei uma pós graduação em Arquitetura de Soluções Digitais pela faculdade Impacta.
+Em 2017 me formei em Análise e Desenvolvimento de Sistemas pela faculdade IESB, em 2022 terminei minha pós graduação em Arquitetura de Soluções Digitais pela faculdade Impacta.
 
 Estou sempre em busca de conhecimento, sempre estudando, então aqui vão existir alguns repositórios de laboratório :sweat_smile: :nerd_face:
 
